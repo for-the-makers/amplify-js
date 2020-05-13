@@ -1,5 +1,5 @@
 {
-  "name": "@aws-amplify/pushnotification",
+  "name": "@for-the-makers/pushnotification",
   "version": "3.0.10",
   "description": "Push notifications category of aws-amplify",
   "main": "./lib/index.js",
